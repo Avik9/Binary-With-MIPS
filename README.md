@@ -1,4 +1,4 @@
-# Number_System
+# Number System
 A program does 5 different operations in total. 
 The operations interpreting a string of hexadecimal digits as a two’s complement number, 
 interpreting a string of hexadecimal digits as a sign/magnitude number, 
